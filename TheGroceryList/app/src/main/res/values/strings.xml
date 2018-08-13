@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">My Shopping List</string>
+    <string name="action_settings">Settings</string>
+    <string name="add_item">Add First Item</string>
+    <string name="hintItem">Enter Grocery</string>
+    <string name="hintQuantity">Enter Quantity</string>
+    <string name="title_activity_list">My Shopping List</string>
+    <string name="savetxt">Save</string>
+    <string name="sure">Are Your Sure?</string>
+    <string-array name="qtyType">
+        <item>Please Select Grocery Unit</item>
+        <item>Bottle(s)</item>
+        <item>Box(s)</item>
+        <item>Carton(s)</item>
+        <item>Bag(s)</item>
+        <item>Grams(s)</item>
+        <item>Kilo(s)</item>
+        <item>Liter(s)</item>
+        <item>Pack(s)</item>
+    </string-array>
+</resources>
